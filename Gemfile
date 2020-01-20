@@ -15,6 +15,7 @@ gem 'sass-rails',                 '5.1.0'
 gem 'webpacker',                  '4.0.7'
 gem 'turbolinks',                 '5.2.0'
 gem 'jbuilder',                   '2.9.1'
+gem 'tzinfo-data',
 gem 'bootsnap',                   '1.4.4', require: false
 
 group :development, :test do
